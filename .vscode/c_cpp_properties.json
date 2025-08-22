@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "name": "linux-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "cStandard": "c11",
+      "cppStandard": "c++20",
+      "compilerPath": "/usr/bin/gcc",
+      "intelliSenseMode": "linux-gcc-x64"
+    },
+    {
+      "name": "WSL",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ]
+    }
+  ],
+  "version": 4
+}
