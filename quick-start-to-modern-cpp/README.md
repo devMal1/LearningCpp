@@ -12,3 +12,6 @@ This course is for quickly learning the foundations of C++, given you are an exp
 2. [Boolean and If](./my-practice/1-basics/bool_if_ternary.cpp)
 3. [Loops](./my-practice/1-basics/loops.cpp)
 4. [Functions and Overloading](./my-practice/1-basics/functions_and_overloading.cpp)
+5. [Header Files](./my-practice/1-basics/headers/main.cpp)
+6. [Enums](./my-practice/1-basics/enum.cpp)
+7. [Structs](./my-practice/1-basics/structs.cpp)
