@@ -8,6 +8,6 @@ _I will be writing the challenges out in C++ as an effort to learn C++._
 
 ## My Practice Code
 
-<!-- ### [Basic Challenges 1](./my-practice/1-basic-challenges-1/)
+### [Basic Challenges 1](./my-practice/01-basic-challenges-1/)
 
-1. [](./my-practice/) -->
+1. [Hello World](./my-practice/01-basic-challenges-1/01-hello-world/)
