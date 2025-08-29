@@ -15,3 +15,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 5. [Header Files](./my-practice/1-basics/headers/main.cpp)
 6. [Enums](./my-practice/1-basics/enum.cpp)
 7. [Structs](./my-practice/1-basics/structs.cpp)
+8. [Auto (Uniform Init)](./my-practice/1-basics/auto_init.cpp)
+9. [Const & Constexpr](./my-practice/1-basics/const_constexpr.cpp)
+10. [Local Static](./my-practice/1-basics/local_static.cpp)
+11. [Namespaces](./my-practice/1-basics/namespaces.cpp)
