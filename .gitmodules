@@ -1,3 +1,6 @@
 [submodule "quick-start-to-modern-cpp/course-content/UdemyCppEng"]
 	path = quick-start-to-modern-cpp/course-content/UdemyCppEng
 	url = https://github.com/franneck94/UdemyCppEng.git
+[submodule "seventy-plus-javascript-challenges/course-content/traversy-js-challenges"]
+	path = seventy-plus-javascript-challenges/course-content/traversy-js-challenges
+	url = https://github.com/bradtraversy/traversy-js-challenges.git
