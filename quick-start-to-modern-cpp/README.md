@@ -18,4 +18,6 @@ This course is for quickly learning the foundations of C++, given you are an exp
 8. [Auto (Uniform Init)](./my-practice/1-basics/auto_init.cpp)
 9. [Const & Constexpr](./my-practice/1-basics/const_constexpr.cpp)
 10. [Local Static](./my-practice/1-basics/local_static.cpp)
-11. [Namespaces](./my-practice/1-basics/namespaces.cpp)
+11. [Local Namespaces](./my-practice/1-basics/namespaces.cpp)
+12. [Anonymous Namespaces](./my-practice/1-basics/anonym_namespace.cpp)
+13. **[Exercise - Boilerplate for "Self-Driving Car"](./my-practice/1-basics/Exercise/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter02/Exercise/Exercise.md)_
