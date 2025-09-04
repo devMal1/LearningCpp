@@ -21,3 +21,10 @@ This course is for quickly learning the foundations of C++, given you are an exp
 11. [Local Namespaces](./my-practice/1-basics/namespaces.cpp)
 12. [Anonymous Namespaces](./my-practice/1-basics/anonym_namespace.cpp)
 13. **[Exercise - Boilerplate for "Self-Driving Car"](./my-practice/1-basics/Exercise/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter02/Exercise/Exercise.md)_
+
+### [Memory](./my-practice/2-memory/)
+
+1. [Arrays](./my-practice/2-memory/array.cpp)
+2. [Strings](./my-practice/2-memory/strings.cpp)
+3. [Copy by Reference](./my-practice/2-memory/copy_reference.cpp)
+4. [Pointers](./my-practice/2-memory/pointer.cpp)
