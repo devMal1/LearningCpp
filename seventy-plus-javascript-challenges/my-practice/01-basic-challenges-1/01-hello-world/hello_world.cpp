@@ -1,15 +1,11 @@
 #include <iostream>
+#include <string>
 
-#include "hello-world.h"
+#include "hello_world.h"
 
-void helloWorld() {
+std::string hello_world() {
     std::cout << "Hello World!" << std::endl;
-}
-
-int main() {
-    helloWorld();
-
-    return 0;
+    return "Hello World!";
 }
 
 

@@ -11,3 +11,4 @@ _I will be writing the challenges out in C++ as an effort to learn C++._
 ### [Basic Challenges 1](./my-practice/01-basic-challenges-1/)
 
 1. [Hello World](./my-practice/01-basic-challenges-1/01-hello-world/)
+2. [Get Sum](./my-practice/01-basic-challenges-1/02-get-sum/)
