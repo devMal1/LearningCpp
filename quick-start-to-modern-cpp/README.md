@@ -30,4 +30,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 4. [Pointers](./my-practice/2-memory/pointer.cpp)
 5. [Heap (new and delete)](./my-practice/2-memory/heap.cpp)
 6. [LValue and RValue](./my-practice/2-memory/LValueRValue.cpp)
-7. **[Exercise - "Self-Driving Car"](./my-practice/2-memory/Exercise/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter03/Exercise/Exercise.md)_
+7. **[Exercise - Printing Scene for "Self-Driving Car"](./my-practice/2-memory/Exercise/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter03/Exercise/Exercise.md)_

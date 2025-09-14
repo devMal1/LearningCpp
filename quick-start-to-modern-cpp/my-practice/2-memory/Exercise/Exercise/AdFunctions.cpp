@@ -1,6 +1,7 @@
 #include <cmath>
 #include <cstdint>
 #include <iostream>
+#include <array>
 
 #include "AdConstants.h"
 #include "AdFunctions.h"
@@ -24,7 +25,7 @@ namespace Ad {
             return ego_vehicle;
         }
 
-        Ad::Types::NeighborVehiclesType init_vehicle() {
+        Ad::Types::NeighborVehiclesType init_vehicles() {
             const auto vehicles = Ad::Types::NeighborVehiclesType{
                 .left_lane_vehicles={
                     Ad::Types::VehicleType{
@@ -59,13 +60,13 @@ namespace Ad {
                         .id=4,
                         .lane=Ad::Types::LaneAssocationType::RightLane,
                         .speed_mps=Ad::Utils::kph_to_mps(135.0f),
-                        .relative_distance_m=70.0f
+                        .relative_distance_m=80.0f
                     },
                     Ad::Types::VehicleType{
                         .id=5,
                         .lane=Ad::Types::LaneAssocationType::RightLane,
                         .speed_mps=Ad::Utils::kph_to_mps(135.0f),
-                        .relative_distance_m=-50.0f
+                        .relative_distance_m=-40.0f
                     }
                 }
             };
@@ -76,9 +77,9 @@ namespace Ad {
 
     namespace Visualize {
         void print_vehicle(const Ad::Types::VehicleType &vehicle) {
-            std::cout << vehicle.id << std::endl;
-            std::cout << vehicle.speed_mps << std::endl;
-            std::cout << vehicle.relative_distance_m << std::endl;
+            std::cout << "Id: " << vehicle.id << std::endl;
+            std::cout << "Speed (mps): " << vehicle.speed_mps << std::endl;
+            std::cout << "Distance (m): " << vehicle.relative_distance_m << std::endl;
         }
 
         void print_neighbor_vehicles(const Ad::Types::NeighborVehiclesType &vehicles) {
@@ -93,12 +94,26 @@ namespace Ad {
 
         }
 
-        // TODO: finish!
         void print_scene(const Ad::Types::VehicleType &ego_vehicle, const Ad::Types::NeighborVehiclesType &vehicles) {
+            const auto distances = std::array<std::string, 11>{
+                "100      ",
+                "80       ",
+                "60       ",
+                "40       ",
+                "20       ",
+                "0        ",
+                "-20      ",
+                "-40      ",
+                "-60      ",
+                "-80      ",
+                "-100     "
+            };
+
             std::cout << "           L   C   R  " << std::endl;
 
-            for (std::int16_t distance = 100; distance >= -100; distance -= 20) {
-                std::cout << distance;
+            auto i = std::size_t{0};
+            for (float distance = 100.0f; distance >= -100.0f; distance -= 20.0f) {
+                std::cout << distances[i];
 
                 if (vehicles.left_lane_vehicles[0].relative_distance_m == distance || vehicles.left_lane_vehicles[1].relative_distance_m == distance) {
                     std::cout << "| V |";
@@ -108,6 +123,8 @@ namespace Ad {
 
                 if (vehicles.center_lane_vehicles[0].relative_distance_m == distance || vehicles.center_lane_vehicles[1].relative_distance_m == distance) {
                     std::cout << " V ";
+                } else if (ego_vehicle.relative_distance_m == distance) {
+                    std::cout << " E ";
                 } else {
                     std::cout << "   ";
                 }
@@ -119,6 +136,7 @@ namespace Ad {
                 }
 
                 std::cout << std::endl;
+                i += 1;
             }
         }
     }

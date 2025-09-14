@@ -21,9 +21,9 @@ namespace Ad {
         };
 
         struct NeighborVehiclesType {
-            VehicleType left_lane_vehicles[2];
-            VehicleType center_lane_vehicles[2];
-            VehicleType right_lane_vehicles[2];
+            VehicleType left_lane_vehicles[Ad::Constants::NUM_VEHICLES_PER_LANE];
+            VehicleType center_lane_vehicles[Ad::Constants::NUM_VEHICLES_PER_LANE];
+            VehicleType right_lane_vehicles[Ad::Constants::NUM_VEHICLES_PER_LANE];
         };
     }
 }

@@ -5,6 +5,7 @@
 
 namespace Ad {
     namespace Constants {
-        constexpr std::int32_t EGO_VEHICLE_ID = -1;
+        constexpr auto EGO_VEHICLE_ID = std::int32_t{-1};
+        constexpr auto NUM_VEHICLES_PER_LANE = std::size_t{2};
     }
 }
