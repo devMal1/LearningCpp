@@ -36,3 +36,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 
 1. [Template Functions](./my-practice/3-stl-container/templates.cpp)
 2. [Vectors](./my-practice/3-stl-container/vectors.cpp)
+3. [Spans](./my-practice/3-stl-container/spans.cpp)
