@@ -38,3 +38,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 2. [Vectors](./my-practice/3-stl-container/vectors.cpp)
 3. [Spans](./my-practice/3-stl-container/spans.cpp)
 4. [Pairs, Tuples, and Structured Binding](./my-practice/3-stl-container/pair_tuple.cpp)
+5. [Maps](./my-practice/3-stl-container/map.cpp)
