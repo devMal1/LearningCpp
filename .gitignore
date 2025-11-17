@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# ignore the generated build/debug/*
+build/
