@@ -42,3 +42,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 6. [Alias](./my-practice/3-stl-container/alias.cpp)
 7. [Iterators](./my-practice/3-stl-container/iterators.cpp)
 8. [Inserters](./my-practice/3-stl-container/inserters.cpp)
+9. **[Exercise - Iterator Functions from Scratch"](./my-practice/3-stl-container/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter04/Exercise/Exercise.md)_
