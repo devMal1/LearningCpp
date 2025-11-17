@@ -41,3 +41,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 5. [Maps](./my-practice/3-stl-container/map.cpp)
 6. [Alias](./my-practice/3-stl-container/alias.cpp)
 7. [Iterators](./my-practice/3-stl-container/iterators.cpp)
+8. [Inserters](./my-practice/3-stl-container/inserters.cpp)
