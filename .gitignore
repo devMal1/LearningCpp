@@ -42,3 +42,7 @@
 
 # ignore the generated build/debug/*
 build/
+
+# ignore changes specific to my device
+.vscode/c_cpp_properties.json
+.vscode/launch.json
