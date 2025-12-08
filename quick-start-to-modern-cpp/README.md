@@ -47,3 +47,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 ### [Strings and Files](./my-practice/4-strings-and-files)
 
 1. [Strings](./my-practice/4-strings-and-files/strings.cpp)
+2. [Small String Optimization (SSO) and Sting Views](./my-practice/4-strings-and-files/sso_sv.cpp)
