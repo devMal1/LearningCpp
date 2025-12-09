@@ -42,7 +42,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 6. [Alias](./my-practice/3-stl-container/alias.cpp)
 7. [Iterators](./my-practice/3-stl-container/iterators.cpp)
 8. [Inserters](./my-practice/3-stl-container/inserters.cpp)
-9. **[Exercise - Iterator Functions from Scratch"](./my-practice/3-stl-container/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter04/Exercise/Exercise.md)_
+9. **[Exercise - Iterator Functions from Scratch](./my-practice/3-stl-container/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter04/Exercise/Exercise.md)_
 
 ### [Strings and Files](./my-practice/4-strings-and-files)
 
@@ -50,3 +50,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 2. [Small String Optimization (SSO) and Sting Views](./my-practice/4-strings-and-files/sso_sv.cpp)
 3. [Files - Input and Output](./my-practice/4-strings-and-files/files.cpp)
 4. [File System (Library)](./my-practice/4-strings-and-files/file_systems.cpp)
+5. **[Exercise - Word Counter Function](./my-practice/4-strings-and-files/Exercise/main.cpp)** _[[Exercise.md](./my-practice/4-strings-and-files/Exercise/Exercise.md)]_
