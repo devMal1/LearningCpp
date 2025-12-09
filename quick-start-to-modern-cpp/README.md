@@ -2,7 +2,7 @@
 
 This course is for quickly learning the foundations of C++, given you are an experienced developer (already understand other programming language(s)).
 
-[Course Content (Cloned)](./course-content/UdemyCppEng/)
+[Course Content: UdemyCppEng](https://github.com/franneck94/UdemyCppEng/tree/master)
 
 ## My Practice Code
 
@@ -20,7 +20,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 10. [Local Static](./my-practice/1-basics/local_static.cpp)
 11. [Local Namespaces](./my-practice/1-basics/namespaces.cpp)
 12. [Anonymous Namespaces](./my-practice/1-basics/anonym_namespace.cpp)
-13. **[Exercise - Boilerplate for "Self-Driving Car"](./my-practice/1-basics/Exercise/Exercise/main.cpp)** _[(Exercise.md)](./course-content/UdemyCppEng/Chapter02/Exercise/Exercise.md)_
+13. **[Exercise - Boilerplate for "Self-Driving Car"](./my-practice/1-basics/Exercise/Exercise/main.cpp)** _[(Exercise.md)](./my-practice/1-basics/Exercise/Exercise.md)_
 
 ### [Memory](./my-practice/2-memory/)
 
@@ -50,4 +50,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 2. [Small String Optimization (SSO) and Sting Views](./my-practice/4-strings-and-files/sso_sv.cpp)
 3. [Files - Input and Output](./my-practice/4-strings-and-files/files.cpp)
 4. [File System (Library)](./my-practice/4-strings-and-files/file_systems.cpp)
-5. **[Exercise - Word Counter Function](./my-practice/4-strings-and-files/Exercise/main.cpp)** _[[Exercise.md](./my-practice/4-strings-and-files/Exercise/Exercise.md)]_
+5. **[Exercise - Word Counter Function](./my-practice/4-strings-and-files/Exercise/main.cpp)** _[(Exercise.md)](./my-practice/4-strings-and-files/Exercise/Exercise.md)_
