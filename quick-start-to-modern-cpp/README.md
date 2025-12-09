@@ -51,3 +51,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 3. [Files - Input and Output](./my-practice/4-strings-and-files/files.cpp)
 4. [File System (Library)](./my-practice/4-strings-and-files/file_systems.cpp)
 5. **[Exercise - Word Counter Function](./my-practice/4-strings-and-files/Exercise/main.cpp)** _[(Exercise.md)](./my-practice/4-strings-and-files/Exercise/Exercise.md)_
+
+### [Lambdas and More std Features](./my-practice/5-lambdas-and-more-std-features)
+
+1. [Random Library](./my-practice/5-lambdas-and-more-std-features/randoms.cpp)
