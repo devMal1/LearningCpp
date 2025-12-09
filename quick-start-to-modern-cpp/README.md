@@ -52,7 +52,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 4. [File System (Library)](./my-practice/4-strings-and-files/file_systems.cpp)
 5. **[Exercise - Word Counter Function](./my-practice/4-strings-and-files/Exercise/main.cpp)** _[(Exercise.md)](./my-practice/4-strings-and-files/Exercise/Exercise.md)_
 
-### [Lambdas and More std Features](./my-practice/5-lambdas-and-more-std-features)
+### [Lambdas and More std Features](./my-practice/5-lambdas-and-more-std-features/)
 
 1. [Random Library](./my-practice/5-lambdas-and-more-std-features/randoms.cpp)
 2. [Chrono Library](./my-practice/5-lambdas-and-more-std-features/chronos.cpp)
@@ -62,5 +62,5 @@ This course is for quickly learning the foundations of C++, given you are an exp
 6. [Generate Function and Local Static Variables](./my-practice/5-lambdas-and-more-std-features/generate.cpp)
 7. [Transform and Accumulate Function](./my-practice/5-lambdas-and-more-std-features/transform_accumulate.cpp)
 8. [Remove, Sort, and Replace Function](./my-practice/5-lambdas-and-more-std-features/remove_sort_replace.cpp)
-9. [Min, Max, Equal and Any, All, None Function](./my-practice/5-lambdas-and-more-std-features/min_max_eq_and_any_all_none.cpp)
+9. [Min, Max, Equal and Any, All, None Function](./my-practice/5-lambdas-and-more-std-features/min_max_equal_and_any_all_none.cpp)
 10. [Function Function](./my-practice/5-lambdas-and-more-std-features/functions.cpp)
