@@ -56,3 +56,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 
 1. [Random Library](./my-practice/5-lambdas-and-more-std-features/randoms.cpp)
 2. [Chrono Library](./my-practice/5-lambdas-and-more-std-features/chronos.cpp)
+3. [Chrono Library (Date)](./my-practice/5-lambdas-and-more-std-features/dates.cpp)
