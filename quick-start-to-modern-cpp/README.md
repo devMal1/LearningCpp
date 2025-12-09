@@ -62,3 +62,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 6. [Generate Function and Local Static Variables](./my-practice/5-lambdas-and-more-std-features/generate.cpp)
 7. [Transform and Accumulate Function](./my-practice/5-lambdas-and-more-std-features/transform_accumulate.cpp)
 8. [Remove, Sort, and Replace Function](./my-practice/5-lambdas-and-more-std-features/remove_sort_replace.cpp)
+9. [Min, Max, Equal and Any, All, None Function](./my-practice/5-lambdas-and-more-std-features/min_max_eq_and_any_all_none.cpp)
