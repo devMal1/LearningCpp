@@ -60,3 +60,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 4. [Numeric Limits Library](./my-practice/5-lambdas-and-more-std-features/limits.cpp)
 5. [Lambdas](./my-practice/5-lambdas-and-more-std-features/lambdas.cpp)
 6. [Generate Function and Local Static Variables](./my-practice/5-lambdas-and-more-std-features/generate.cpp)
+7. [Transform and Accumulate Function](./my-practice/5-lambdas-and-more-std-features/transform_accumulate.cpp)
