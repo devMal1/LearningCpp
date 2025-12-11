@@ -64,3 +64,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 8. [Remove, Sort, and Replace Function](./my-practice/5-lambdas-and-more-std-features/remove_sort_replace.cpp)
 9. [Min, Max, Equal and Any, All, None Function](./my-practice/5-lambdas-and-more-std-features/min_max_equal_and_any_all_none.cpp)
 10. [Function Function](./my-practice/5-lambdas-and-more-std-features/functions.cpp)
+11. **[Exercise - Standard Library Functions from Scratch](./my-practice/5-lambdas-and-more-std-features/Exercise/main.cpp)** _[(Exercise.md)](./my-practice/5-lambdas-and-more-std-features/Exercise/Exercise.md)_
