@@ -65,3 +65,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 9. [Min, Max, Equal and Any, All, None Function](./my-practice/5-lambdas-and-more-std-features/min_max_equal_and_any_all_none.cpp)
 10. [Function Function](./my-practice/5-lambdas-and-more-std-features/functions.cpp)
 11. **[Exercise - Standard Library Functions from Scratch](./my-practice/5-lambdas-and-more-std-features/Exercise/main.cpp)** _[(Exercise.md)](./my-practice/5-lambdas-and-more-std-features/Exercise/Exercise.md)_
+
+### [Classes and Inheritance](./my-practice/6-classes-and-inheritance/)
+
+1. [Classes](./my-practice/6-classes-and-inheritance/Classes/)
