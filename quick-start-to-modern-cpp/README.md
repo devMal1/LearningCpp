@@ -69,3 +69,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 ### [Classes and Inheritance](./my-practice/6-classes-and-inheritance/)
 
 1. [Classes](./my-practice/6-classes-and-inheritance/Classes/)
+2. [Inheritance and Abstract Classes](./my-practice/6-classes-and-inheritance/Inheritance/)
