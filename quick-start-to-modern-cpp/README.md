@@ -74,3 +74,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 4. [Class Templates](./my-practice/6-classes-and-inheritance/ClassTemplates/)
 5. [Operator Overload](./my-practice/6-classes-and-inheritance/OperatorOverload/)
 6. [Copy (and Move) Constructor](./my-practice/6-classes-and-inheritance/Copy_Move/)
+
+### [Templates, Traits, and Concepts](./my-practice/7-templates-traits-and-concepts/)
+
+1. [Template Specialization](./my-practice/7-templates-traits-and-concepts/specialization.cpp)
