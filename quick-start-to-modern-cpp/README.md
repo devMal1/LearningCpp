@@ -72,3 +72,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 2. [Inheritance and Abstract Classes](./my-practice/6-classes-and-inheritance/Inheritance/)
 3. [Polymorphism](./my-practice/6-classes-and-inheritance/Polymorphism/)
 4. [Class Templates](./my-practice/6-classes-and-inheritance/ClassTemplates/)
+5. [Operator Overload](./my-practice/6-classes-and-inheritance/OperatorOverload/)
