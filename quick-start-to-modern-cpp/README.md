@@ -80,3 +80,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 1. [Template Specialization](./my-practice/7-templates-traits-and-concepts/specialization.cpp)
 2. [Type Traits](./my-practice/7-templates-traits-and-concepts/traits.cpp)
 3. [Concepts](./my-practice/7-templates-traits-and-concepts/concepts.cpp)
+4. [Variadics and Fold Expressions](./my-practice/7-templates-traits-and-concepts/variadics.cpp)
