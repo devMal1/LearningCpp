@@ -82,3 +82,7 @@ This course is for quickly learning the foundations of C++, given you are an exp
 3. [Concepts](./my-practice/7-templates-traits-and-concepts/concepts.cpp)
 4. [Variadics and Fold Expressions](./my-practice/7-templates-traits-and-concepts/variadics.cpp)
 5. **[Exercise - Type Traits Practice](./my-practice/7-templates-traits-and-concepts/Exercise/main.cpp)** _[(Exercise.md)](./my-practice/7-templates-traits-and-concepts/Exercise/Exercise.md)_
+
+### [Modern STD Features](./my-practice/8-modern-std-features/)
+
+1. [std::optional](./my-practice/8-modern-std-features/optional.cpp)
