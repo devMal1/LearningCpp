@@ -89,3 +89,4 @@ This course is for quickly learning the foundations of C++, given you are an exp
 2. [std::variant](./my-practice/8-modern-std-features/variant.cpp)
 3. [std::any](./my-practice/8-modern-std-features/any.cpp)
 4. [Attributes](./my-practice/8-modern-std-features/attributes.cpp)
+5. [std::rangers](./my-practice/8-modern-std-features/ranges.cpp)
