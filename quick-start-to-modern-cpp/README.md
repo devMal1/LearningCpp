@@ -91,3 +91,13 @@ This course is for quickly learning the foundations of C++, given you are an exp
 4. [Attributes](./my-practice/8-modern-std-features/attributes.cpp)
 5. [std::ranges](./my-practice/8-modern-std-features/ranges.cpp)
 6. [std::format](./my-practice/8-modern-std-features/format.cpp)
+7. [std::unique_ptr](./my-practice/8-modern-std-features/unique_ptr.cpp)
+8. [std::shared_ptr](./my-practice/8-modern-std-features/shared_ptr.cpp)
+9. [std::weak_ptr](./my-practice/8-modern-std-features/weak_ptr.cpp)
+10. [std::exception](./my-practice/8-modern-std-features/exceptions.cpp)
+
+### [Threads and Async](./my-practice/9-threads-and-async/)
+
+1. [std::thread](./my-practice/9-threads-and-async/threads.cpp)
+2. [std::mutex](./my-practice/9-threads-and-async/mutexes.cpp)
+3. [std::async](./my-practice/9-threads-and-async/async.cpp)
